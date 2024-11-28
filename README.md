@@ -3,7 +3,7 @@
 ## Task
 
 Your task is to write a function, that decodes Morse code and returns a string.
-Write your solution in `src/index.js`
+Write your solution in `src/index.js`.
 
 ---
 
